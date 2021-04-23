@@ -45,7 +45,7 @@ The following **bonus** features are implemented:
 
 ## Video Walkthrough
 
-Unable to log in to due error with API. Have met with TAs and Guru to trouble shoot to no avail.
+Was unable to log in to due error with old API Key. Met with TAs and Guru to trouble shoot.
 
-<img src='Screen Shot 2021-04-19 at 4.35.48 PM.png' title='Screen shot of error message' width='' alt='Video Walkthrough' />
+<img src='unit 3 gif.gif' title='Screen shot of error message' width='' alt='Video Walkthrough' />
 
