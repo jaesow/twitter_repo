@@ -20,7 +20,7 @@ The following **bonus** features are implemented:
 
 ## Video Walkthrough
 
-<img src='Screen Shot 2021-04-19 at 4.35.48 PM.png' title='Screen Shot of Error message' width='' alt='Video Walkthrough' />
+<img src='unit 4 gif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 # Project 3 - *Twitter*
 
